@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2bce5623059b631db274eaab",
+  "owner": "yynhkmfhy",
+  "repo": "page-cd9307d93ae4f21d4a0e074c",
+  "title": "小火箭下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cd9307d93ae4f21d4a0e074c",
+      "a": "小火箭下载",
+      "b": "",
+      "entity": "小火箭下载",
+      "brand": "小火箭下载",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e58e93fb5f7baeb1aefe38ff71cac570205a919fc1813c173aff2909d62732f1",
+      "content": {
+        "keyword1": "小火箭下载",
+        "keyword2": "",
+        "primary_entity": "小火箭下载",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭下载提供专业VPN加速服务，支持基础到团队版多种流量套餐，轻松下载客户端，畅享高速稳定网络。",
+          "AI_DESCRIPTION": "小火箭下载提供专业VPN加速服务，支持基础到团队版多种流量套餐，轻松下载客户端，畅享高速稳定网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{background:#F8F5F0;color:#333;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;max-width:1200px;margin:0 auto;padding:20px;line-height:1.6}.hero h1{font-size:2.8rem;text-align:center;color:#2E8B57;margin:2rem 0}.hero{padding:3rem 0;background:linear-gradient(135deg,#F8F5F0,#E8F5E9);border-radius:12px;margin-bottom:2rem}.plans{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1.5rem}.plan{background:#fff;border-radius:12px;padding:2rem;box-shadow:0 4px 6px rgba(0,0,0,0.1)}.plan.featured{border:2px solid #2E8B57;position:relative}.plan.featured::after{content:'推荐';position:absolute;top:10px;right:10px;background:#2E8B57;color:#fff;padding:4px 12px;border-radius:20px;font-size:0.8rem}.plan h3{font-size:1.5rem;color:#2E8B57;margin-bottom:1rem}.plan .price{font-size:2rem;font-weight:bold;color:#2E8B57;margin:1rem 0}.faq summary{font-weight:bold;color:#2E8B57;cursor:pointer}.faq details{margin:1rem 0;background:#fff;border-radius:8px;overflow:hidden}.faq summary{padding:1rem 1.5rem;font-size:1.1rem}.faq .content{padding:1rem 1.5rem;border-top:1px solid #eee}</style><main><div class=\"hero\"><h1>小火箭下载</h1><p>高速VPN加速器，客户端下载与机场订阅</p></div><section><h2>套餐选择</h2><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"price\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"price\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"price\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section><h2>为什么选择小火箭下载？</h2><p>我们提供稳定的高速节点，支持多种设备，解锁流媒体，优先客服支持。下载我们的客户端，即可享受优质服务。</p></section><section><h2>客户端选择与使用说明</h2><p>我们为您推荐适合不同需求的客户端：基础版适合个人使用，旗舰版适合需要游戏加速的用户，团队版适合企业团队。下载后按照指引连接节点即可。</p></section><details class=\"faq\"><summary>小火箭下载是什么？</summary><div class=\"content\"><p>小火箭下载是一款专注于提供VPN加速服务的品牌，致力于为用户带来稳定、高速的网络体验。</p></div></details><details class=\"faq\"><summary>如何选择套餐？</summary><div class=\"content\"><p>根据您的流量需求和设备数量选择：个人用户可选基础版或旗舰版，企业用户可选团队版。</p></div></details><details class=\"faq\"><summary>如何下载客户端？</summary><div class=\"content\"><p>在官网下载页面点击对应套餐的客户端下载按钮，即可获取安装包。</p></div></details><details class=\"faq\"><summary>支持哪些设备？</summary><div class=\"content\"><p>支持Windows、Mac、Android、iOS等多种主流设备。</p></div></details><details class=\"faq\"><summary>流媒体解锁如何？</summary><div class=\"content\"><p>旗舰版及以上支持Netflix、YouTube等主流流媒体平台的原生解锁。</p></div></details><section><h2>获取下载</h2><p>立即下载小火箭下载客户端：<a href=\"#\">官网下载</a> | <a href=\"#\">客户端指南</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "63353135cf3158c04cbddd134df9d549b0be6f64debc6ab067e0b9ce5bee242a",
+          "seo": {
+            "title": "小火箭下载 - 高速VPN加速器 客户端下载与机场订阅",
+            "keywords": "小火箭下载,VPN加速器,机场订阅,客户端下载,网络加速,VPN套餐",
+            "description": "小火箭下载提供专业VPN加速服务，支持基础到团队版多种流量套餐，轻松下载客户端，畅享高速稳定网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bieoq7.cn",
+    "host": "p-280796b09e.bieoq7.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "c69f0d2e847ae3d60843a92500a563398ccbf6b4357a895cb3b8405cb3392c9b",
+    "sitemap.xml": "72ddd274919b847961796cdc56ad95c895769d8a20c6d11db202c6d5db766d36",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d93d86c907ae88e02f530d9909943e60aad929ebd6abd4023789dbba6852d2db",
+    "robots.txt": "1b7b7246e9a715fd87ef8e7d616d0a9b4d1d9077977477d003e7596166d0c5f2",
+    "3e6a31088ac6d9e605684c2617f1836b.txt": "5bb3b7f2275fa6e8be2aa943010789217c149f0e36c150d6d6b31e58aab19de9"
+  },
+  "revision": "481e3efc83dec4984c80401b81e33d58f09c460a0a2764a8e76443aade2d2e9f"
+}
